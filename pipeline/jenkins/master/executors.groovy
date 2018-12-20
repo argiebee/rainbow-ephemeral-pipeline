@@ -1,3 +1,2 @@
-import
-jenkins.model.*
-Jenkins.instance.setNumExecutors(2)
+import jenkins.model.*
+Jenkins.instance.setNumExecutors(3)
